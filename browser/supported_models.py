@@ -1,4 +1,5 @@
 SUPPORTED_MODELS = [
+    "Anima",
     "Aura Flow",
     "CogVideoX",
     "Flux",
